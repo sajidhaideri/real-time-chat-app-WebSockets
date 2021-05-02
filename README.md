@@ -1,1 +1,6 @@
-# real-time-chat-app-WebSockets
+# WebSockets
+# Real Time Chat Application using websocket
+
+# Run App
+# Npm Install
+# Yarn Install
